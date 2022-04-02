@@ -47,6 +47,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/20shiy/Parstagram/blob/master/gifWalkthrough.gif' />
+<img src='https://github.com/20shiy/Parstagram/blob/master/gifWalkthrough2.gif' />
 
 GIF created with [Recordit](recordit.co).
 
